@@ -16,7 +16,7 @@ const goals: Goal[] = [
   {
     icon: <Heart className="w-6 h-6 text-pink-400" />,
     title: "Healthcare Support",
-    description: "Supporting my girlfriend's dream of establishing a modern healthcare facility."
+    description: ""
   },
   {
     icon: <Sprout className="w-6 h-6 text-green-400" />,
